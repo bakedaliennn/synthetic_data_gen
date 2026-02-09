@@ -1,0 +1,17 @@
+campaign_id,campaign_name,ad_set_name,objective
+1,Business-focused zero tolerance,Business-focused zero tolerance_Tier1,Brand Awareness
+2,Business-focused zero tolerance,Business-focused zero tolerance_Tier2,Brand Awareness
+3,Profound intangible policy,Profound intangible policy_Tier1,Brand Awareness
+4,Profound intangible policy,Profound intangible policy_Tier2,Brand Awareness
+5,Networked value-added time-frame,Networked value-added time-frame_Tier1,Consideration
+6,Networked value-added time-frame,Networked value-added time-frame_Tier2,Consideration
+7,Persistent 24/7 attitude,Persistent 24/7 attitude_Tier1,Lead Gen
+8,Persistent 24/7 attitude,Persistent 24/7 attitude_Tier2,Lead Gen
+9,Centralized modular throughput,Centralized modular throughput_Tier1,Conversion
+10,Centralized modular throughput,Centralized modular throughput_Tier2,Conversion
+11,Integrated dedicated contingency,Integrated dedicated contingency_Tier1,Conversion
+12,Integrated dedicated contingency,Integrated dedicated contingency_Tier2,Conversion
+13,Automated uniform software,Automated uniform software_Tier1,Lead Gen
+14,Automated uniform software,Automated uniform software_Tier2,Lead Gen
+15,Cross-platform static hierarchy,Cross-platform static hierarchy_Tier1,Traffic
+16,Cross-platform static hierarchy,Cross-platform static hierarchy_Tier2,Traffic
