@@ -33,9 +33,9 @@ df_master['CPC'] = np.where(df_master['clicks'] > 0,
                             df_master['spend'] / df_master['clicks'], 
                             0)
 
-# Conversion Rate (Conversions / Impressions * 100)
-df_master['Conversion_Rate'] = np.where(df_master['impressions'] > 0, 
-                                        (df_master['conversions'] / df_master['impressions']) * 100, 
+# Conversion Rate (Conversions / Clicks * 100)
+df_master['Conversion_Rate'] = np.where(df_master['clicks'] > 0, 
+                                        (df_master['conversions'] / df_master['clicks']) * 100, 
                                         0)
 
 # Check for nulls or anomalies
